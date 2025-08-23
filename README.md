@@ -1,12 +1,68 @@
-# React + Vite
+# 🌸 Vencile - Perfume Brand Website (Work in Progress)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **perfume brand website** built with **React + Tailwind CSS**, currently in development 🚀.  
+This is a personal practice project to sharpen my React and frontend development skills.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Status
+🚧 Currently working on:  
+- ✅ Navbar & Hero Section  
+- 🚧 Story, Manufacturing & Products Sections  
+- 🚧 Responsive Layouts (mobile-first design)  
+- 🚧 Animations (GSAP for desktop screens)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## ✨ Features (It will have)
+- 🖤 Clean and minimal UI for a luxury brand feel
+- 📱 Fully responsive (mobile, tablet, laptop, widescreen)
+- 🎨 Styled with **Tailwind CSS** for fast customization
+- ⚡ Smooth Desktop Screen animations (GSAP ready for future effects)
+- 🌍 Free worldwide delivery section
+- 📦 Product showcase with call-to-action
+- 🚀 Deployed on **Vercel**
+
+--- 
+
+## 🖼️ Preview
+🔗 [Live Demo on Vercel](https://your-vercel-link.vercel.app)  
+
+## 🛠️ Tech Stack
+- **React + Vite**
+- **Tailwind CSS**
+- **GSAP (planned for animations)**
+- **Vercel (deployment)**
+
+---
+
+## 🚀 Getting Started
+
+ 
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/your-username/vencile-perfume-website.git
+cd vencile-perfume-website
+```
+
+## Install Dependencies
+```bash
+npm install
+```
+## Run Locally
+```bash
+npm run dev
+(Now open http://localhost:5173 in your browser 🎉)
+```
+
+### 📜 License
+
+This project is licensed under the MIT License.
+Feel free to use and modify for your own projects.
+
+## 💎 Author
+```bash
+hussnain-uet-87
+Crafting modern web experiences ✨
+```
