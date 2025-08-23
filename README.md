@@ -53,8 +53,8 @@ npm install
 ## Run Locally
 ```bash
 npm run dev
-(Now open http://localhost:5173 in your browser 🎉)
 ```
+(Now open http://localhost:5173 in your browser 🎉)
 
 ### 📜 License
 
