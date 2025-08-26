@@ -36,7 +36,7 @@ export default function Navbar() {
       {/* Mobile Hamburger */}
       <div className="lg:hidden">
         <button onClick={() => setIsOpen(!isOpen)}>
-          {isOpen ? <X size={28} color="#32382c" /> : <Menu size={28} color="#32382c" />}
+          {isOpen ? <X size={28} color="#32382c" /> : <Menu size={28} color="#32382c" />} 
         </button>
       </div>
 
@@ -44,12 +44,13 @@ export default function Navbar() {
       {isOpen && (
         <div className="absolute top-16 left-0 w-full bg-[#e8f2e9] flex flex-col items-center gap-6 py-6 shadow-md z-50">
           {navItems.map((item,index) => (
-            <button
+            <a
               key={index}
               className="text-[#32382c] text-lg hover:opacity-70 transition duration-200"
+               href={`#${item.toLowerCase()}`}
             >
               {item}
-            </button>
+            </a>
           ))}
           <button className="bg-[#32382c] text-[#e8f2e9] px-6 py-2 rounded-lg hover:opacity-90 transition duration-200">
             Order Now
