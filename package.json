@@ -10,11 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.2.3",
     "@tailwindcss/vite": "^4.1.12",
+    "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.541.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-icons": "^5.5.0",
+    "tailwind-variants": "^3.1.0",
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
@@ -26,6 +29,7 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
+    "shadcn-ui": "^0.9.5",
     "vite": "^7.1.2"
   }
 }

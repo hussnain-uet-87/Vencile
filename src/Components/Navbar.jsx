@@ -4,7 +4,7 @@ import { Menu, X } from "lucide-react"; // hamburger & close icons
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
-  const navItems = ["Story", "Manufacturing", "Products", "About", "Team"];
+  const navItems = ["Rating", "Benefits", "Products","Newsletter","Contact",];
 
   return (
     <nav className="w-full font-[Poppins] flex items-center justify-between px-12 py-4 bg-[#e8f2e9]">
@@ -16,20 +16,21 @@ export default function Navbar() {
       {/* Desktop Nav */}
       <div className="hidden lg:flex gap-8">
         {navItems.map((item,index) => (
-          <button
+          <a
             key={index}
             className="text-[#32382c] hover:underline hover:cursor-pointer transition duration-200"
+            href={`#${item.toLowerCase()}`}
           >
             {item}
-          </button>
+          </a>
         ))}
       </div>
 
       {/* Desktop CTA */}
       <div className="hidden lg:block">
-        <button className="bg-[#32382c] text-[#e8f2e9] px-8 py-2 rounded-lg hover:opacity-90 transition duration-200">
+        <a className="bg-[#32382c] text-[#e8f2e9] px-8 py-2 rounded-lg hover:opacity-90 transition duration-200">
           Order Now
-        </button>
+        </a>
       </div>
 
       {/* Mobile Hamburger */}
