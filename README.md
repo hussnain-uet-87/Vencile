@@ -1,41 +1,39 @@
-# 🌸 Vencile - Perfume Brand Website (Work in Progress)
+# Vencile – Perfume & Skincare Brand Landing Page
 
-A modern and responsive **perfume brand website** built with **React + Tailwind CSS**, currently in development 🚀.  
-This is a personal practice project to sharpen my React and frontend development skills.
+A modern, responsive landing page built for Vencile, a perfumes and skincare brand.
+Developed with Vite + React + Tailwind CSS, deployed on Vercel, and designed to match the brand’s specified color palette.
+This project focuses only on the frontend showcase (no backend, no functional CTAs).
+---
+
+# 🚀 Tech Stack
+
+React + Vite – Component-based, fast development.
+Tailwind CSS – Utility-first styling, fully responsive.
+Remix Icons – Clean and lightweight icon set.
+AI-Generated Illustrations – Used for hero and section visuals.
+Vercel – Deployment & hosting.
+---
+
+# 🎯 Features
+
+Fully responsive design (mobile, tablet, desktop).
+Classic & modern UI aligned with brand identity.
+Navigation with smooth scroll to sections.
+Deployed frontend only – no backend, no working forms or order buttons.
 
 ---
 
-## 📌 Status
-🚧 Currently working on:  
-- ✅ Navbar & Hero Section  
-- 🚧 Story, Manufacturing & Products Sections  
-- 🚧 Responsive Layouts (mobile-first design)  
-- 🚧 Animations (GSAP for desktop screens)
 
----
+# 📌 Notes
 
-
-## ✨ Features (It will have)
-- 🖤 Clean and minimal UI for a luxury brand feel
-- 📱 Fully responsive (mobile, tablet, laptop, widescreen)
-- 🎨 Styled with **Tailwind CSS** for fast customization
-- ⚡ Smooth Desktop Screen animations (GSAP ready for future effects)
-- 🌍 Free worldwide delivery section
-- 📦 Product showcase with call-to-action
-- 🚀 Deployed on **Vercel**
+Built in just 3 hours to polish React & Tailwind skills.
+My 3rd React project, also my first time working with real brand requirements.
+Purely for portfolio/demo purposes – does not affect brand’s official website or visibility.
 
 --- 
 
 ## 🖼️ Preview
-🔗 [Live Demo on Vercel](https://your-vercel-link.vercel.app)  
-
-## 🛠️ Tech Stack
-- **React + Vite**
-- **Tailwind CSS**
-- **GSAP (planned for animations)**
-- **Vercel (deployment)**
-
----
+🔗 [Live Demo on Vercel](https://vencile.vercel.app/)  
 
 ## 🚀 Getting Started
 
