@@ -67,12 +67,10 @@ const Benefits = () => {
                 key={index}
                 className="flex items-center gap-6 pb-6 border-b border-neutral-400 last:border-none"
               >
-                {/* Icon */}
                 <div className="flex-shrink-0 text-2xl md:text-4xl text-[#e8f2e9] bg-[#45553d] p-3 rounded-2xl drop-shadow-md">
                   <Icon />
                 </div>
 
-                {/* Text */}
                 <div className="text-[#45553d]">
                   <h3 className="font-bold text-lg md:text-xl">{item.head}</h3>
                   <p className="text-sm md:text-base mt-1">{item.para}</p>
