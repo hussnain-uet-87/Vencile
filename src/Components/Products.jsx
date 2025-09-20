@@ -36,9 +36,9 @@ const Products = () => {
 
       {/* Button */}
       <div className="flex items-center justify-center mt-10">
-        <button className="px-6 md:px-8 font-semibold py-2 text-[#45553d] bg-[#e8f2e9] hover:bg-[#cbd6c6] transition-colors text-base md:text-lg rounded-md">
+        <a href='products' className="px-6 md:px-8 font-semibold py-2 text-[#45553d] bg-[#e8f2e9] hover:bg-[#cbd6c6] transition-colors text-base md:text-lg rounded-md">
           View Collection
-        </button>
+        </a>
       </div>
     </section>
   );

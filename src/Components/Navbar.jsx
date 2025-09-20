@@ -28,7 +28,7 @@ export default function Navbar() {
 
       {/* Desktop CTA */}
       <div className="hidden lg:block">
-        <a className="bg-[#32382c] text-[#e8f2e9] px-8 py-2 rounded-lg hover:opacity-90 transition duration-200">
+        <a href="products" className="cursor-pointer bg-[#32382c] text-[#e8f2e9] px-8 py-2 rounded-lg hover:opacity-90 transition duration-200">
           Order Now
         </a>
       </div>
@@ -52,9 +52,9 @@ export default function Navbar() {
               {item}
             </a>
           ))}
-          <button className="bg-[#32382c] text-[#e8f2e9] px-6 py-2 rounded-lg hover:opacity-90 transition duration-200">
+          <a href="products" className="cursor-pointer bg-[#32382c] text-[#e8f2e9] px-6 py-2 rounded-lg hover:opacity-90 transition duration-200">
             Order Now
-          </button>
+          </a>
         </div>
       )}
     </nav>
