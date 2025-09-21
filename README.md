@@ -1,4 +1,4 @@
-# 🌸 Vencile - Perfume Brand Website (Work in Progress)
+# 🌸 Vencile - Perfume Brand Website Landing page + E-Commerce Site
 
 A modern and responsive **perfume brand website** built with **React + Tailwind CSS**,  
 This is a personal practice project to sharpen my React and frontend development skills.
