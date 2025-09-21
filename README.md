@@ -1,26 +1,17 @@
 # 🌸 Vencile - Perfume Brand Website (Work in Progress)
 
-A modern and responsive **perfume brand website** built with **React + Tailwind CSS**, currently in development 🚀.  
+A modern and responsive **perfume brand website** built with **React + Tailwind CSS**,  
 This is a personal practice project to sharpen my React and frontend development skills.
 
 ---
 
-## 📌 Status
-🚧 Currently working on:  
-- ✅ Navbar & Hero Section  
-- 🚧 Story, Manufacturing & Products Sections  
-- 🚧 Responsive Layouts (mobile-first design)  
-- 🚧 Animations (GSAP for desktop screens)
 
----
-
-
-## ✨ Features (It will have)
+## ✨ Features 
 - 🖤 Clean and minimal UI for a luxury brand feel
 - 📱 Fully responsive (mobile, tablet, laptop, widescreen)
 - 🎨 Styled with **Tailwind CSS** for fast customization
 - ⚡ Smooth Desktop Screen animations (GSAP ready for future effects)
-- 🌍 Free worldwide delivery section
+- 🌍 All product's Prices and Delivery cost calculation
 - 📦 Product showcase with call-to-action
 - 🚀 Deployed on **Vercel**
 
@@ -32,7 +23,6 @@ This is a personal practice project to sharpen my React and frontend development
 ## 🛠️ Tech Stack
 - **React + Vite**
 - **Tailwind CSS**
-- **GSAP (planned for animations)**
 - **Vercel (deployment)**
 
 ---
